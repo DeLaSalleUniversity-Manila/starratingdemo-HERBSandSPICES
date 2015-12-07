@@ -1,0 +1,20 @@
+Help Activity with star rating v1.0 (ALPHA)
+
+Sample help demo app with star rating
+
+INSTRUCTIONS:
+1. click help button
+2. rate (optional)
+
+FEATURES:
+Clickable button
+Reading external text file
+star rating
+
+SUPPORT INFORMATION:
+
+Help Activity with star rating is developed by Herbs
+
+Sean Herbie Chua
+Email: sean_herbie_chua@dlsu.edu.ph
+All Rights Reserved
